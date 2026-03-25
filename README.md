@@ -14,7 +14,6 @@ I'm a student learning to code
 - javascript
 - React
 - Git & GitHub
-- 
 
 ---
 
